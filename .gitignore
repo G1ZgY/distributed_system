@@ -1,3 +1,6 @@
+# Исключить все скрытые файлы и папки
+.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
